@@ -1,3 +1,4 @@
+#square divider
 n0 = n = int(input())
 
 if (n >= 4) and n%4 == 0:
